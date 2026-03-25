@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Thomas 👋
 
-<!--
-**ThomasIsHere/ThomasIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Developer passionate about building Apps / SAAS. 
 
-Here are some ideas to get you started:
+I am currently open to **freelance projects** as well as **permanent in-house roles**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🛠️ Founder of [**@ahiru-t3ch**](https://github.com/ahiru-t3ch) (Check out my startup's profile for professional solutions).
+- 🌱 I’m currently learning **IA** with [Le Wagon](https://www.lewagon.com/).
+- 📫 Reach me at: **[Your Email]** or [**LinkedIn**](https://www.linkedin.com/in/thomaslavier/).
